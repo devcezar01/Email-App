@@ -1,2 +1,2 @@
 # Email-App
-A email Application
+A email Application CRUD in Java
